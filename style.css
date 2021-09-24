@@ -1,0 +1,127 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+.header{
+    width: 100%;
+    height: 40px;
+    border:1px solid #5e068a;
+    background-color: #5e068a;
+    position:relative;
+}
+.list1{
+position: absolute;
+left: 4%;
+color: white;
+font-size: small;
+top: 20%;
+
+
+
+}
+.ph{
+    position:absolute;
+    left: 15%;
+    text-decoration: none;
+    color: white;
+    font-size: small;
+    top:12%
+}
+.phonesymbol{
+    position: absolute;
+    left: 68%;
+    top: 10%;
+    color: white;
+    font-size: small;
+    top:12%
+}
+.mobno{
+    position: absolute;
+    left: 70%;
+    text-decoration: none;
+    color: white;
+    font-size: small;
+    top:12%
+
+}
+.email{
+    position:absolute;
+    left: 80%;
+    top:12%;
+    color:white;
+    font-size: small;
+
+}
+.id{
+    position: absolute;
+    left: 82%;
+    color:white;
+    text-decoration: none;
+    font-size: small;
+    top:12%
+}
+.links{
+    color: black;
+}
+.btn1{
+    background-color:#5e068a ;
+    /* font-family: 'Poppins', sans-serif; */
+    
+}
+.btn1:hover{
+    background-color: white;
+    color: #5e068a;
+    border-width:2px; 
+    border-color:#5e068a;
+   
+    
+}
+.btncourse{
+    background-color:#5e068a ;
+    color: white;
+    
+
+}
+.btncourse:hover{
+    background-color: white;
+    color: #5e068a;
+    border-width:2px; 
+    border-color:#5e068a;
+   
+}
+.h1{
+    font-size: 50px;
+    
+}
+.luminar_head{
+    color: #5e068a;
+}
+.courses{
+    width:100%;
+    height: 1000px;
+    background-color: #f5f5f5;;
+}
+.ourcourse{
+    color:#5e068a;
+    position: absolute;
+    top:210%;
+    left: 43%;
+}
+.datascience{
+    background-color: white;
+}
+.btnview2{
+    background-color:#5e068a ;
+}
+.btn_last{
+   background-color: white;
+   color:#5e068a ;
+   border-style: 3px;
+   border-color: #5e068a;
+   position: absolute;
+    left: 45%;
+
+}
+.btn_last:hover{
+    background-color: #5e068a;
+    color: white;
+    
+}
